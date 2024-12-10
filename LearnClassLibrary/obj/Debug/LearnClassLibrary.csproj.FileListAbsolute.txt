@@ -1,0 +1,6 @@
+E:\Документы-stud\ИП213\UP02_Хоменко\Days\d3\Learn\LearnClassLibrary\bin\Debug\LearnClassLibrary.dll
+E:\Документы-stud\ИП213\UP02_Хоменко\Days\d3\Learn\LearnClassLibrary\bin\Debug\LearnClassLibrary.pdb
+E:\Документы-stud\ИП213\UP02_Хоменко\Days\d3\Learn\LearnClassLibrary\obj\Debug\LearnClassLibrary.csproj.AssemblyReference.cache
+E:\Документы-stud\ИП213\UP02_Хоменко\Days\d3\Learn\LearnClassLibrary\obj\Debug\LearnClassLibrary.csproj.CoreCompileInputs.cache
+E:\Документы-stud\ИП213\UP02_Хоменко\Days\d3\Learn\LearnClassLibrary\obj\Debug\LearnClassLibrary.dll
+E:\Документы-stud\ИП213\UP02_Хоменко\Days\d3\Learn\LearnClassLibrary\obj\Debug\LearnClassLibrary.pdb
